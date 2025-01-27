@@ -30,7 +30,7 @@ body {
   background-size: 31.25rem, 25rem, auto, auto, cover;
   background-repeat: no-repeat;
   background-position: bottom left, top right, top, right, 80%;
-  width: 100vw;
+  width: 100%;
   min-height: 100vh;
   color: var(--neutral-0);
   font-weight: 400;
