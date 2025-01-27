@@ -408,7 +408,7 @@ main {
   }
 
   .custom-upload {
-    width: 22.5rem;
+    max-width: 22.5rem;
     background-image: url("assets/images/dashed-box.svg");
     background-size: fill;
     margin-left: auto;
